@@ -11,7 +11,7 @@
 -->
 # 💫 About Me:
 Hello, my name is Issai Nunez. <br>I am a Software engineer, who is eager to learn and collaborate with others.<br>
-🔭 I am currently working on expanding my skills.
+- 🔭 I am currently working on expanding my skills.
 - 💬 Ask me about my favorite music artist!
 - 📫 How to reach me: issainunez@gmail.com
 - 😄 Pronouns: he/him
